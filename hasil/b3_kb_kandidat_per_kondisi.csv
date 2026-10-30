@@ -1,0 +1,9 @@
+kondisi,kelas,citra,asli,gamma0.5,gamma1.8,regang,ekualisasi,CLAHE
+gelap,berat,teh_042,3.12,2.54,4.18,3.35,0.88,1.32
+gelap,ringan,teh_022,3.16,2.51,4.32,3.49,0.5,1.97
+terang,berat,teh_043,3.74,3.54,4.06,3.99,1.63,2.2
+terang,ringan,teh_023,2.42,2.26,2.66,2.63,2.32,0.47
+kontras_rendah,berat,teh_044,3.08,2.94,3.24,3.3,1.47,2.2
+kontras_rendah,ringan,teh_024,2.31,2.2,2.43,2.41,0.81,1.71
+bayangan,berat,teh_045,2.95,2.52,3.81,3.04,2.03,2.87
+bayangan,ringan,teh_025,0.77,0.66,0.96,0.8,0.55,1.06

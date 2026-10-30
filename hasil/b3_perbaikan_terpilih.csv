@@ -1,0 +1,9 @@
+kondisi,citra,kelas,perbaikan,KB_sebelum,KB_sesudah,perubahan_%
+gelap,teh_042,berat,regang,3.12,3.35,7.4
+gelap,teh_022,ringan,regang,3.16,3.49,10.4
+terang,teh_043,berat,gamma1.8,3.74,4.06,8.6
+terang,teh_023,ringan,gamma1.8,2.42,2.66,9.9
+kontras_rendah,teh_044,berat,regang,3.08,3.3,7.1
+kontras_rendah,teh_024,ringan,regang,2.31,2.41,4.3
+bayangan,teh_045,berat,CLAHE,2.95,2.87,-2.7
+bayangan,teh_025,ringan,CLAHE,0.77,1.06,37.7
