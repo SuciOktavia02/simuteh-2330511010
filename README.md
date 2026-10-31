@@ -6,7 +6,7 @@ Nama: Suci Oktavia Ramadhani | NIM: 2330511010 | **SEED = 1010**
 ## Cara menjalankan
 1. Pasang pustaka: `pip install -r requirements.txt`
 2. Bangkitkan dataset dari folder utama repository: `python src/buat_dataset_sintetis.py`
-   (menghasilkan 60 citra di `data/sintetis/`; folder ini tidak diunggah karena dapat dibangkitkan ulang)
+   (menghasilkan 60 citra di data/sintetis/; salinan hasilnya juga disertakan di repository)
 3. Jalankan notebook di folder `notebook/` secara berurutan dengan Restart & Run All: B1, B2, B3, B4, B5.
    Notebook dapat dijalankan di Google Colab dengan mengunggah `src/buat_dataset_sintetis.py` dan `src/utils_cv.py`.
 
